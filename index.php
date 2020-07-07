@@ -30,5 +30,6 @@ echo "hello word";
     </table>
 
     <p>Fue Resuelto el problema</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci officiis eveniet quisquam. Voluptate laboriosam ullam dicta dolore. Numquam, molestiae consectetur commodi itaque veniam cupiditate est impedit, ipsum sed nostrum nam!</p>
 </body>
 </html>
