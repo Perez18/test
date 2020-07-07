@@ -28,5 +28,7 @@ echo "hello word";
         <td>6</td>
     </tr>
     </table>
+
+    <p>Fue Resuelto el problema</p>
 </body>
 </html>
