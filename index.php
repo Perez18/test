@@ -13,10 +13,6 @@ echo "hello word";
     <title>Document</title>
 </head>
 <body>
-<<<<<<< HEAD
     ok
-=======
-    
->>>>>>> e2427a8caca2b9293995901ced3f717ef628b51b
 </body>
 </html>
